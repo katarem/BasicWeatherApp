@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +11,21 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+}
+
+#omg{
+  font-size: 30px;
+  text-align: center;
+}
+#a{
+  margin-left: 10px;
+  width: 80px;
+  height: 30px;
+  font-size: 15px;
+  background-color: red;
 }
